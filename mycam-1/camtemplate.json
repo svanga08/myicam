@@ -1,0 +1,14 @@
+{
+   "name": "mycam-1",
+   "description": "Description for mycam-1.",
+   "type": "userCreated",
+   "manifest": {
+     "template_type": "Terraform",
+     "template_format": "HCL",
+     "template_provider": "Other"
+   },
+   "metadata": {
+     "displayName": "mycam-1",
+     "bullets": []
+   }
+ }
